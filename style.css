@@ -1,0 +1,11 @@
+.body_background {
+    background-position: center;
+    background-size: contain;
+    background: url(roaf.jpg);
+}
+
+.Canvas_background {
+    background-position: center;
+    background-size: contain;
+    background: url(parkingLot.jpg);
+}
